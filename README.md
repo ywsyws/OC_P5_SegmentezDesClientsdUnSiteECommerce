@@ -42,7 +42,7 @@ Fournir une segmentation des clients avec une description actionable pour les ca
 
 **Soutenance**<br><br>
 <ins>Remarques</ins> :
-- Présentation professionnelle et assez audible
+- Présentation professionnelle
 - Bonne gestion du temps de parole
 
 <br>
