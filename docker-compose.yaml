@@ -2,9 +2,9 @@ version: "3.9"
 services:
   jupyter:
     build: .
-    image: python-jupyter:3000
-    container_name: 'OCR_P5'
+    image: python-jupyter:3001
+    container_name: 'OC_P5'
     ports:
-      - '3000:3000'
+      - '3000:3001'
     volumes:
       - .:/workspace

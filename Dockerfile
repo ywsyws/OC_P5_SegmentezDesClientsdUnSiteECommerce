@@ -58,4 +58,4 @@ RUN jupyter nbextension install https://github.com/drillan/jupyter-black/archive
 COPY . .
 
 # Launch Jupyter Notebook
-CMD ["jupyter", "notebook", "--port=3000", "--NotebookApp.password=''", "--NotebookApp.token=''", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+CMD ["jupyter", "notebook", "--port=3001", "--NotebookApp.password=''", "--NotebookApp.token=''", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
