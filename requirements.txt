@@ -1,0 +1,18 @@
+numpy
+pandas==1.1.2
+matplotlib
+seaborn
+sklearn
+black
+# dtale
+missingno
+tqdm==4.40.0
+ipywidgets
+jedi==0.17.2
+statsmodels
+haversine
+yellowbrick
+plotly
+Pillow==6.2.2
+numba==0.51.* # for umap
+umap-learn
