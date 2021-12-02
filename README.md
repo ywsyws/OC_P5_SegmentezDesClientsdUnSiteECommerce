@@ -27,15 +27,22 @@ Fournir une segmentation des clients avec une description actionable pour les ca
 ## 6. Retours du Jury de Soutenance
 **Livrable**<br><br>
 <ins>Points forts</ins> :
-- 
+- Livrables complets 
+- Bonne compréhension de la problématique métier
+- Bonne mise en évidence de relations entre les tables de données
+- Bonne exploration des données avec des analyses pertinentes
+- Plusieurs modèles de segmentation ont ete mise en œuvre 
+- Segmentation proposée est exploitable et facile d’utilisation pour l’équipe marketing
+- Fréquence à laquelle la segmentation doit être mise à jour
 <br><br>
 
 <ins>Axes d'amélioration</ins> :
-- 
+- Tester le RFM
 <br><br>
 
 **Soutenance**<br><br>
 <ins>Remarques</ins> :
-
+- Présentation professionnelle et assez audible
+- Bonne gestion du temps de parole
 
 <br>
